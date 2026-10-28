@@ -1,0 +1,16 @@
+{
+  "repository": {
+    "owner": "adis76304-ops",
+    "repo": "post",
+    "branch": "main"
+  },
+  "target_file": "uploads/6fkb.json",
+  "total_links": 4,
+  "worker_urls": [
+    "https://cdn.akmalaji10p.workers.dev",
+    "https://cdn.soniirawan0p.workers.dev",
+    "https://cdn.ciavini38.workers.dev",
+    "https://cache.larasaji35.workers.dev"
+  ],
+  "jsdelivr_url": "https://cdn.jsdelivr.net/gh/adis76304-ops/post@main/uploads/6fkb.json?t=1793223286746"
+}
