@@ -1,0 +1,15 @@
+{
+  "repository": {
+    "owner": "adis76304-ops",
+    "repo": "post",
+    "branch": "main"
+  },
+  "target_file": "uploads/nlct.json",
+  "total_links": 3,
+  "worker_urls": [
+    "https://cdn.sintawati1509.workers.dev",
+    "https://cdn.renasri4289.workers.dev",
+    "https://cdn.indracahyo0p.workers.dev"
+  ],
+  "jsdelivr_url": "https://cdn.jsdelivr.net/gh/adis76304-ops/post@main/uploads/nlct.json"
+}
