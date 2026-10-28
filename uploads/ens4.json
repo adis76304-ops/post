@@ -1,0 +1,14 @@
+{
+  "repository": {
+    "owner": "adis76304-ops",
+    "repo": "post",
+    "branch": "main"
+  },
+  "target_file": "uploads/ens4.json",
+  "total_links": 2,
+  "worker_urls": [
+    "https://cdn.renasri4289.workers.dev",
+    "https://cdn.indracahyo0p.workers.dev"
+  ],
+  "jsdelivr_url": "https://cdn.jsdelivr.net/gh/adis76304-ops/post@main/uploads/ens4.json"
+}
