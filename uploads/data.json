@@ -5,9 +5,8 @@
     "branch": "main"
   },
   "target_file": "uploads/data.json",
-  "total_links": 31,
+  "total_links": 30,
   "worker_urls": [
-    "https://cdn.ahmadyadiaja0p.workers.dev",
     "https://cdn.bebiirawati7.workers.dev",
     "https://cdn.watip7233.workers.dev",
     "https://cdn.gagaeni4.workers.dev",
@@ -39,5 +38,5 @@
     "https://cdn.renasri4289.workers.dev",
     "https://cdn.indracahyo0p.workers.dev"
   ],
-  "jsdelivr_url": "https://cdn.jsdelivr.net/gh/adis76304-ops/post@main/uploads/data.json?t=1793222946659"
+  "jsdelivr_url": "https://cdn.jsdelivr.net/gh/adis76304-ops/post@main/uploads/data.json?t=1793223002628"
 }
